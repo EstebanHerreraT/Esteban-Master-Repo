@@ -1,4 +1,4 @@
-# Python Projects Repo
+## Python Projects Repo
 Repository with my most relevant projects in python.
 
 # Project 1 - News Feed Filter:
