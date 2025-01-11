@@ -1,2 +1,2 @@
-# Esteban-Master-Repo
-Repository with my most relevant programming projects.
+# Python Projects Repo
+Repository with my most relevant projects in python.
