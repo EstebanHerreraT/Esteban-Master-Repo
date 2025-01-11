@@ -1,2 +1,2 @@
 # Esteban-Master-Repo
-Repository with all my programming projects.
+Repository with my most relevant programming projects.
